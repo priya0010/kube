@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:q!
+|2,0,1693916773,,"q!"
 :wq!
 |2,0,1693915715,,"wq!"
-:q!
-|2,0,1693912979,,"q!"
 
 # Search String History (newest to oldest):
 
@@ -54,22 +54,34 @@
 |3,0,9,1,1,0,1693913657,"  ports:"
 
 # File marks:
-'0  7  20  /var/lib/jenkins/workspace/cicd/form.html
-|4,48,7,20,1693915715,"/var/lib/jenkins/workspace/cicd/form.html"
-'1  30  35  /var/lib/jenkins/workspace/cicd/pod.yaml
-|4,49,30,35,1693913692,"/var/lib/jenkins/workspace/cicd/pod.yaml"
-'2  1  26  /var/lib/jenkins/workspace/cicd/pod.yaml
-|4,50,1,26,1693913052,"/var/lib/jenkins/workspace/cicd/pod.yaml"
-'3  30  26  /var/lib/jenkins/workspace/cicd/pod.yaml
-|4,51,30,26,1693913052,"/var/lib/jenkins/workspace/cicd/pod.yaml"
-'4  1  0  ~/pod.yaml
-|4,52,1,0,1693912979,"~/pod.yaml"
-'5  24  30  /etc/sudoers
-|4,53,24,30,1693905458,"/etc/sudoers"
+'0  30  35  /var/lib/jenkins/workspace/cicd/pod.yaml
+|4,48,30,35,1693916773,"/var/lib/jenkins/workspace/cicd/pod.yaml"
+'1  7  20  /var/lib/jenkins/workspace/cicd/form.html
+|4,49,7,20,1693915715,"/var/lib/jenkins/workspace/cicd/form.html"
+'2  30  35  /var/lib/jenkins/workspace/cicd/pod.yaml
+|4,50,30,35,1693913692,"/var/lib/jenkins/workspace/cicd/pod.yaml"
+'3  1  26  /var/lib/jenkins/workspace/cicd/pod.yaml
+|4,51,1,26,1693913052,"/var/lib/jenkins/workspace/cicd/pod.yaml"
+'4  30  26  /var/lib/jenkins/workspace/cicd/pod.yaml
+|4,52,30,26,1693913052,"/var/lib/jenkins/workspace/cicd/pod.yaml"
+'5  1  26  /var/lib/jenkins/workspace/cicd/pod.yaml
+|4,53,1,26,1693913052,"/var/lib/jenkins/workspace/cicd/pod.yaml"
+'6  30  26  /var/lib/jenkins/workspace/cicd/pod.yaml
+|4,54,30,26,1693913052,"/var/lib/jenkins/workspace/cicd/pod.yaml"
+'7  1  0  ~/pod.yaml
+|4,55,1,0,1693912979,"~/pod.yaml"
+'8  24  30  /etc/sudoers
+|4,56,24,30,1693905458,"/etc/sudoers"
 
 # Jumplist (newest first):
+-'  30  35  /var/lib/jenkins/workspace/cicd/pod.yaml
+|4,39,30,35,1693916773,"/var/lib/jenkins/workspace/cicd/pod.yaml"
 -'  7  20  /var/lib/jenkins/workspace/cicd/form.html
 |4,39,7,20,1693915715,"/var/lib/jenkins/workspace/cicd/form.html"
+-'  7  20  /var/lib/jenkins/workspace/cicd/form.html
+|4,39,7,20,1693915715,"/var/lib/jenkins/workspace/cicd/form.html"
+-'  1  0  /var/lib/jenkins/workspace/cicd/form.html
+|4,39,1,0,1693915696,"/var/lib/jenkins/workspace/cicd/form.html"
 -'  1  0  /var/lib/jenkins/workspace/cicd/form.html
 |4,39,1,0,1693915696,"/var/lib/jenkins/workspace/cicd/form.html"
 -'  30  35  /var/lib/jenkins/workspace/cicd/pod.yaml
@@ -80,6 +92,8 @@
 |4,39,1,26,1693913647,"/var/lib/jenkins/workspace/cicd/pod.yaml"
 -'  1  26  /var/lib/jenkins/workspace/cicd/pod.yaml
 |4,39,1,26,1693913647,"/var/lib/jenkins/workspace/cicd/pod.yaml"
+-'  1  26  /var/lib/jenkins/workspace/cicd/pod.yaml
+|4,39,1,26,1693913647,"/var/lib/jenkins/workspace/cicd/pod.yaml"
 -'  30  26  /var/lib/jenkins/workspace/cicd/pod.yaml
 |4,39,30,26,1693913052,"/var/lib/jenkins/workspace/cicd/pod.yaml"
 -'  30  26  /var/lib/jenkins/workspace/cicd/pod.yaml
@@ -104,6 +118,22 @@
 |4,39,1,0,1693912979,"~/pod.yaml"
 -'  1  0  ~/pod.yaml
 |4,39,1,0,1693912979,"~/pod.yaml"
+-'  1  0  ~/pod.yaml
+|4,39,1,0,1693912979,"~/pod.yaml"
+-'  1  0  ~/pod.yaml
+|4,39,1,0,1693912979,"~/pod.yaml"
+-'  1  0  ~/pod.yaml
+|4,39,1,0,1693912979,"~/pod.yaml"
+-'  1  0  ~/pod.yaml
+|4,39,1,0,1693912979,"~/pod.yaml"
+-'  1  0  ~/pod.yaml
+|4,39,1,0,1693912979,"~/pod.yaml"
+-'  1  0  ~/pod.yaml
+|4,39,1,0,1693912979,"~/pod.yaml"
+-'  1  0  ~/pod.yaml
+|4,39,1,0,1693912979,"~/pod.yaml"
+-'  1  0  ~/pod.yaml
+|4,39,1,0,1693912979,"~/pod.yaml"
 -'  24  30  /etc/sudoers
 |4,39,24,30,1693905458,"/etc/sudoers"
 -'  24  30  /etc/sudoers
@@ -136,6 +166,70 @@
 |4,39,24,30,1693905458,"/etc/sudoers"
 -'  24  30  /etc/sudoers
 |4,39,24,30,1693905458,"/etc/sudoers"
+-'  24  30  /etc/sudoers
+|4,39,24,30,1693905458,"/etc/sudoers"
+-'  24  30  /etc/sudoers
+|4,39,24,30,1693905458,"/etc/sudoers"
+-'  24  30  /etc/sudoers
+|4,39,24,30,1693905458,"/etc/sudoers"
+-'  24  30  /etc/sudoers
+|4,39,24,30,1693905458,"/etc/sudoers"
+-'  24  30  /etc/sudoers
+|4,39,24,30,1693905458,"/etc/sudoers"
+-'  24  30  /etc/sudoers
+|4,39,24,30,1693905458,"/etc/sudoers"
+-'  24  30  /etc/sudoers
+|4,39,24,30,1693905458,"/etc/sudoers"
+-'  24  30  /etc/sudoers
+|4,39,24,30,1693905458,"/etc/sudoers"
+-'  24  30  /etc/sudoers
+|4,39,24,30,1693905458,"/etc/sudoers"
+-'  24  30  /etc/sudoers
+|4,39,24,30,1693905458,"/etc/sudoers"
+-'  24  30  /etc/sudoers
+|4,39,24,30,1693905458,"/etc/sudoers"
+-'  24  30  /etc/sudoers
+|4,39,24,30,1693905458,"/etc/sudoers"
+-'  24  30  /etc/sudoers
+|4,39,24,30,1693905458,"/etc/sudoers"
+-'  24  30  /etc/sudoers
+|4,39,24,30,1693905458,"/etc/sudoers"
+-'  24  30  /etc/sudoers
+|4,39,24,30,1693905458,"/etc/sudoers"
+-'  24  30  /etc/sudoers
+|4,39,24,30,1693905458,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1693905417,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1693905417,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1693905417,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1693905417,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1693905417,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1693905417,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1693905417,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1693905417,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1693905417,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1693905417,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1693905417,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1693905417,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1693905417,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1693905417,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1693905417,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1693905417,"/etc/sudoers"
 -'  1  0  /etc/sudoers
 |4,39,1,0,1693905417,"/etc/sudoers"
 -'  1  0  /etc/sudoers
@@ -171,21 +265,21 @@
 
 # History of marks within files (newest to oldest):
 
-> /var/lib/jenkins/workspace/cicd/form.html
-	*	1693915712	0
-	"	7	20
-	^	7	21
-	.	7	20
-	+	7	20
-
 > /var/lib/jenkins/workspace/cicd/pod.yaml
-	*	1693913689	0
+	*	1693916770	0
 	"	30	35
 	^	30	36
 	.	30	35
 	+	1	14
 	+	31	33
 	+	30	35
+
+> /var/lib/jenkins/workspace/cicd/form.html
+	*	1693915712	0
+	"	7	20
+	^	7	21
+	.	7	20
+	+	7	20
 
 > ~/pod.yaml
 	*	1693912973	0
